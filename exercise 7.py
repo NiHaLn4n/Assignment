@@ -1,3 +1,5 @@
+# Exercise 7: Some Counting
+
 # 1. Print numbers from 0 to 50
 for a in range(0, 51, 1): 
     print(a)
