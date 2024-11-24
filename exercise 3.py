@@ -1,3 +1,5 @@
+# Exercise 3: Biography
+
 # for the user to enter details
 name = input("Enter your name: ")
 hometown = input("Enter your hometown: ")
