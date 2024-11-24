@@ -1,4 +1,6 @@
-# Define the correct password
+#Exercise 6: Brute Force Attack
+
+#  Define the correct password
 password = "12345"
 
 # Start an infinite loop
