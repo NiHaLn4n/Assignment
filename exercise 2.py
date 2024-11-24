@@ -1,3 +1,5 @@
+# Exercise 2: Simple Sums
+
 # Declaring variable and its values as 8 and 10
 num1 = 8
 num2 = 10
