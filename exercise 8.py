@@ -1,3 +1,5 @@
+# Exercise 8: Simple Search
+
 # Create a list of names
 names = ["Jake", "Zac", "Ian", "Ron", "Sam", "Dave"]
 
